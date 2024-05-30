@@ -1,3 +1,5 @@
 .env
 .DS_Store
 __pycache__
+venv
+crew_ai_logs.log
